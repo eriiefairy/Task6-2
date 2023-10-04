@@ -19,9 +19,16 @@ Furthermore the explaintion of the process that takes place from when you type t
 |3.     |[Usage](#use)|
 |4.     |[Credits](#cred)|
 
-[The Project](#The-Project)
-
 <a name="insta"></a>
 ## Installation Guide
+
 <a name="use"></a>
+## Usage
+
+With this project, you can read the project and learn more about Web Fundamentals. 
+<img width="1440" alt="WebFun" src="https://github.com/eriiefairy/task6-2/assets/146772462/736c3e40-08af-44ad-8ad4-2695cfb4661e">
+
+
 <a name="cred"></a>
+## Credits:
+### Erin Cooper: https://github.com/eriiefairy)
