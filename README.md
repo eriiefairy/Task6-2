@@ -36,4 +36,4 @@ With this project, you can read the project and learn more about Web Fundamental
 
 <a name="cred"></a>
 ## Credits:
-### Erin Cooper: https://github.com/eriiefairy)
+### Erin Cooper: https://github.com/eriiefairy
