@@ -1,0 +1,97 @@
+What is Web 3.0 and how is it different from Web 1.0 and Web 2.0?
+
+Web 3.0, also known as the Semantic Web or the Intelligent Web, refers to the vision of a more advanced and intelligent version of the World Wide Web. While there
+isn't a universally agreed-upon definition or a specific set of technologies associated with Web 3.0, it generally represents the next evolution of the web that
+focuses on adding more meaning and context to information and enhancing the capabilities of online interactions.
+
+Here are the key differences between Web 1.0, Web 2.0, and Web 3.0:
+
+Web 1.0:
+Web 1.0, also called the "Read-Only Web," refers to the early days of the internet when the web was primarily a collection of static web pages with
+limited interactivity. In this phase, websites were mostly informational, and users could only consume content without much contribution or interaction. Websites
+were mainly designed for one-way communication from the website owner to the users.
+
+Web 2.0:
+Web 2.0, known as the "Read-Write Web," represents the era of interactive and user-generated content. It introduced dynamic and collaborative elements
+to the web, enabling users to create, share, and interact with content. Web 2.0 introduced social media platforms, blogging, wikis, and other interactive services
+where users could actively participate, generate content, and connect with others. The focus was on user engagement, social interaction, and user-generated content.
+
+Web 3.0:
+Web 3.0 is envisioned as the "Semantic Web" that aims to make web content more meaningful and interconnected. It involves the use of technologies like
+artificial intelligence, machine learning, natural language processing, and linked data to provide more intelligent and context-aware web experiences. Web 3.0
+focuses on enhancing data integration, data sharing, and interoperability between different platforms and applications. It aims to enable machines to understand
+and interpret web content, allowing for more personalized and relevant user experiences. Web 3.0 also emphasizes decentralized technologies, blockchain, and
+cryptocurrencies to provide greater privacy, security, and control over data.
+
+
+
+What are the functional differences between the front-end of a web application and its back-end?
+
+Front-end:
+
+User Interface: The front-end is responsible for creating the user interface (UI) that users interact with. It includes designing and developing the visual layout,
+components, and features that users see and interact with on the web application.
+User Experience: The front-end focuses on providing a seamless and intuitive user experience (UX). It involves optimizing the UI for usability, responsiveness,
+accessibility, and performance to ensure a positive interaction between the user and the application.
+Client-side Logic: The front-end handles client-side logic, which runs on the user's device or browser. This includes validating user inputs, handling user
+interactions, and rendering dynamic content.
+Presentation Layer: The front-end is responsible for presenting data and information to the user in a visually appealing and understandable manner. It formats and
+structures the content to make it easily consumable by the user.
+
+Back-end:
+
+Server-side Logic: The back-end handles server-side logic, which runs on the web server or application server. It processes requests from the front-end, retrieves
+data from databases or external APIs, performs calculations or manipulations, and generates appropriate responses.
+Data Storage and Management: The back-end deals with data storage and management. It includes creating and maintaining databases, handling data persistence,
+ensuring data integrity, and implementing data access mechanisms.
+Business Logic: The back-end implements the business rules and logic of the web application. It performs complex calculations, processes user inputs, enforces
+security measures, and executes algorithms or workflows.
+Integration: The back-end integrates with external systems, services, or APIs to fetch data or perform specific operations. It handles data exchange,
+authentication, and communication with external resources.
+
+
+
+Explain the process that takes place from when you type a URL into the address bar in your browser until you finally view the page you have requested
+
+The process from typing a URL into the address bar until viewing the requested page involves several steps.
+
+DNS Resolution:
+The browser extracts the domain name from the URL (e.g., "example.com").
+The browser checks its cache for the corresponding IP address. If found, it proceeds to the next step. Otherwise, it sends a DNS (Domain Name System) lookup
+request to the operating system.
+
+DNS Lookup:
+The operating system sends the DNS lookup request to a DNS resolver.
+The DNS resolver checks its cache for the IP address. If found, it returns the IP address to the operating system. Otherwise, it performs iterative or
+recursive queries to find the IP address associated with the domain name.
+Once the IP address is obtained, it is returned to the operating system.
+
+Establishing a Connection:
+The browser initiates a TCP (Transmission Control Protocol) connection with the server using the obtained IP address and the default port 80 for HTTP or port
+443 for HTTPS.
+The browser and the server perform a TCP handshake to establish a reliable connection.
+
+Sending HTTP Request:
+The browser sends an HTTP request to the server.
+The request includes the HTTP method (e.g., GET, POST), the requested resource (e.g., "/index.html"), headers (such as user-agent, cookies), and other relevant
+information.
+
+Processing the Request on the Server:
+The server receives the HTTP request.
+The server processes the request based on the requested resource and any server-side logic associated with it.
+The server may interact with databases, execute scripts, or perform other operations to generate the response.
+
+Generating the Response:
+The server generates an HTTP response.
+The response includes a status code (e.g., 200 for success), headers (such as content-type, cache-control), and the response body (HTML, CSS, JavaScript, or
+other content).
+
+Sending the Response:
+The server sends the HTTP response back to the browser over the established TCP connection.
+Receiving and Rendering the Page:
+The browser receives the response from the server.
+The browser processes the response, parses the HTML, renders the page structure, and applies CSS styles.
+The browser may execute JavaScript code embedded in the page, which can manipulate the page's elements or make additional requests.
+Displaying the Page:
+The browser displays the fully rendered web page in its window or tab.
+The user can interact with the displayed page, click links, submit forms, and perform other actions.
