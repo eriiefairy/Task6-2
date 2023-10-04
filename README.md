@@ -22,6 +22,11 @@ Furthermore the explaintion of the process that takes place from when you type t
 <a name="insta"></a>
 ## Installation Guide
 
+To install this project, go to get the code link. <br>
+Go to your terminal.<br>
+_git clone_ *link* *name of the project*
+
+
 <a name="use"></a>
 ## Usage
 
